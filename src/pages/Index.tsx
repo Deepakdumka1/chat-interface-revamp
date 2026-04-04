@@ -1,2 +1,4 @@
-import Landing from "./pages/Landing";
-export default Landing;
+import Landing from "@/pages/Landing";
+
+const Index = () => <Landing />;
+export default Index;
